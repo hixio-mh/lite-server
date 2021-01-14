@@ -26,10 +26,7 @@
     "lite-server": "./bin/lite-server"
   },
   "homepage": "https://github.com/johnpapa/lite-server#readme",
-  "dependencies": {
-    "browser-sync": "^2.26.13",
-    "connect-history-api-fallback": "^1.2.0",
-    "connect-logger" : "0.0.1" ,
+  "kebergantungan" : {
   },
   "devDependencies": {
     "eslint": "^6.0.0",
